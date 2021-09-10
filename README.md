@@ -1,7 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Douglas here.</h1>
+<!-- <h3 align="center">A Web Developer Instructor focused on helping people start programming</h3> -->
+
+- 🌱 I’m currently learning web development using JavaScript, HTML and CSS
+- 📫 How to reach me: dfaferreira46@gmail.com
+- ⚡ Fun fact: I'm also a graphic and UI designer
 
 <!--
-**douglasF5/douglasF5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
