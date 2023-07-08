@@ -9,6 +9,6 @@
 
 Software Developer | Human Interface Designer. <br>Leveraging technology and design to craft functional, useful, and beautiful solutions.
 
-Help [IndySoft](https://www.indysoft.com/) develop great products.
+Helping [IndySoft](https://www.indysoft.com/) develop great products.
 
 From Brazil to the world 🌎
