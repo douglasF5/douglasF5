@@ -9,6 +9,4 @@
 
 Software Developer | Human Interface Designer. <br>Leveraging technology and design to craft functional, useful, and beautiful solutions.
 
-Building [Binocular](https://www.indysoft.com/).
-
 From Brazil to the world 🌎
