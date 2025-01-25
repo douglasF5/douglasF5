@@ -8,5 +8,3 @@
 </pre>
 
 Software Developer | Human Interface Designer. <br>Leveraging technology and design to craft functional, useful, and beautiful solutions.
-
-From Brazil to the world 🌎
